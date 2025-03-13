@@ -3,7 +3,7 @@ import {Input} from "@/styles/Inscription";
 
 // Style pour les messages d'erreur
 export const ErrorMessage = styled.p`
-  color: #e74c3c;
+  color:rgb(212, 68, 53);
   font-size: 0.8rem;
   margin-top: 4px;
   margin-bottom: 0;
@@ -11,11 +11,11 @@ export const ErrorMessage = styled.p`
 
 // Style pour le message de succès
 export const SuccessMessage = styled.p`
-  color: #2ecc71;
+  color:rgb(30, 198, 100);
   text-align: center;
   padding: 10px;
   margin-bottom: 20px;
-  background-color: rgba(46, 204, 113, 0.1);
+  background-color: rgba(35, 183, 96, 0.1);
   border-radius: 4px;
 `;
 

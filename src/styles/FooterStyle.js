@@ -10,7 +10,7 @@ const breakpoints = {
 
 export const Container = styled.div`
   display: flex;
-  background-color: rgb(240, 237, 237);
+  background-color: rgb(233, 230, 230);
   margin-top: 40px;
   padding: 40px 200px;
   font-family: Arial, sans-serif;

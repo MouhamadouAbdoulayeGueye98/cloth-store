@@ -15,7 +15,7 @@ export const Container = styled.div`
   margin: 120px auto 50px;
   padding: 1.5rem;
   border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(65, 59, 59, 0.1);
   background-color: white;
   
   @media (max-width: ${breakpoints.sm}) {
